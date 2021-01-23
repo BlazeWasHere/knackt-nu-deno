@@ -1,10 +1,10 @@
 # knackt.nu library
 
-## **Setup**
-### taken from [usage.js](https://github.com/BlazeWasHere/knackt-nu-deno/usage.ts)
+## **Usage**
+taken from [usage.js](https://github.com/BlazeWasHere/knackt-nu-deno/usage.ts)
 
 ```js
-import { Knackt } from "./mod.ts";
+import { Knackt } from "https://deno.land/x/knackt/mod.ts";
 
 
 const token = "token";
