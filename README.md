@@ -1,7 +1,7 @@
 # knackt.nu library
 
 ## **Usage**
-taken from [usage.js](https://github.com/BlazeWasHere/knackt-nu-deno/usage.ts)
+taken from [usage.ts](https://github.com/BlazeWasHere/knackt-nu-deno/blob/main/usage.ts)
 
 ```js
 import { Knackt } from "https://deno.land/x/knackt/mod.ts";
